@@ -1,5 +1,10 @@
-<h2 align="center">Hi, I'm Onur 👋</h2>
-<p align="center">AI Automation Engineer &middot; Industrial Engineering background &middot; Turkey</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:6F4E37,100:A9746E&height=180&section=header&text=Onur%20Kesmez&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9746E&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Industrial+Engineering+Background;Building+tools+that+think" />
+
+</div>
 
 ---
 
@@ -18,21 +23,29 @@ I'm an **AI Automation Engineer** with an Industrial Engineering background. I l
 
 **[AI Snake Game](https://github.com/onurkesmez/ai-snake-game)** — classic Snake played by a greedy pathfinding AI. [Live demo](https://onurkesmez.github.io/ai-snake-game/)
 
+**[AI Haiku Generator](https://github.com/onurkesmez/ai-haiku-generator)** — a Markov chain that writes original 5-7-5 poems. [Live demo](https://onurkesmez.github.io/ai-haiku-generator/)
+
 **[daily-notes](https://github.com/onurkesmez/daily-notes)** — a running log of what I learn about AI, automation, and software, one day at a time.
 
 ### Tech I use
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat&logo=openai&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/-Python-6F4E37?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-8B5E3C?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-A9746E?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-6F4E37?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-LLM%20APIs-3E2723?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ### GitHub stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onurkesmez&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkesmez&layout=compact&theme=radical" />
+<img src="https://img.shields.io/github/followers/onurkesmez?label=Followers&style=for-the-badge&color=6F4E37" />
+<img src="https://img.shields.io/github/stars/onurkesmez?label=Stars&style=for-the-badge&color=6F4E37" />
 </p>
 
----
+<div align="center">
 
-*Open to conversations about AI automation, agent design, and industrial engineering + tech crossovers.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9746E,50:6F4E37,100:3E2723&height=100&section=footer" width="100%"/>
+
+</div>
+
+<p align="center"><i>Open to conversations about AI automation, agent design, and industrial engineering + tech crossovers.</i></p>
